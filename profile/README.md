@@ -10,7 +10,5 @@ Somos un equipo de desarolladores, buscamos el mejor camino en cada producto, co
 
 ## Integrantes
 
-- [Katherine Andrea Nolasco](https://github.com/kathedev)
 - [Eliseo Francisco Arevalo ](https://github.com/eliseodesign)
 - [Carlos Daniel Rodrigez](https://github.com/arevdevgames)
-- [Hector Amilcar Cruz](https://github.com/Amilcar25)
